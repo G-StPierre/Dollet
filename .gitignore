@@ -1,3 +1,10 @@
-/.vscode
+# IDE Specifics
+.vscode/
+.idea/
+*.swp
+
+# Build Specifics
 /build
+*.o
+*.exe
 *.p
